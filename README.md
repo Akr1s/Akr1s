@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Dmytro
 #### Would like to become Frontend React Developer
 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React ⚛️
 - 👯 I’m looking to collaborate with other content creators 
 - 📫 2020 Goals: to become a junior React developer
 
