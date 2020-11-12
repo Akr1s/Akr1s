@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning React ⚛️
 - 👯 I’m looking to collaborate with other content creators 
 - 📫 2020 Goals: to become a junior React developer
+- Student
 - I'm a bad designer
 
 ### Skills
